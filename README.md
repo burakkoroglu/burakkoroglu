@@ -1,17 +1,18 @@
-### Hi there 👋
+<h3 align="center">
+Welcome to my profile!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+I am Burak Köroğlu. I graduated from computer engineering in 2022.<br> I'm currently developing web applications like  ERP systems and Websites.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakkoroglu)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**burakkoroglu/burakkoroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<div align="center">
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakkoroglu&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 🔭 I’m currently working on .Net Core , MVC and Vue.Js <br>
+ 🌱 I’m currently learning Docker and Vue.Js<br>
+ 💬 Feel free to ask me about anything<br>
+ 📫 How to reach me: Mail me at "bkorooglu@gmail.com"<br>
+<div>
